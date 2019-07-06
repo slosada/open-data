@@ -3,7 +3,7 @@
   "team_name" : "Spain",
   "lineup" : [ {
     "player_id" : 3064,
-    "player_name" : "David Silva",
+    "player_name" : "David Josué Jiménez Silva",
     "jersey_number" : 21,
     "country" : {
       "id" : 214,
@@ -11,7 +11,7 @@
     }
   }, {
     "player_id" : 3333,
-    "player_name" : "David de Gea",
+    "player_name" : "David de Gea Quintana",
     "jersey_number" : 1,
     "country" : {
       "id" : 214,
@@ -19,7 +19,7 @@
     }
   }, {
     "player_id" : 4926,
-    "player_name" : "Isco",
+    "player_name" : "Francisco Román Alarcón Suárez",
     "jersey_number" : 22,
     "country" : {
       "id" : 214,
@@ -119,7 +119,7 @@
   "team_name" : "Portugal",
   "lineup" : [ {
     "player_id" : 3168,
-    "player_name" : "João Moutinho",
+    "player_name" : "João Filipe Iria Santos Moutinho",
     "jersey_number" : 8,
     "country" : {
       "id" : 183,
@@ -127,15 +127,23 @@
     }
   }, {
     "player_id" : 3193,
-    "player_name" : "Bernardo Silva",
+    "player_name" : "Bernardo Mota Veiga de Carvalho e Silva",
     "jersey_number" : 11,
     "country" : {
       "id" : 183,
       "name" : "Portugal"
     }
   }, {
+    "player_id" : 3329,
+    "player_name" : "Cédric Ricardo Alves Soares",
+    "jersey_number" : 21,
+    "country" : {
+      "id" : 183,
+      "name" : "Portugal"
+    }
+  }, {
     "player_id" : 3960,
-    "player_name" : "José Fonte",
+    "player_name" : "José Miguel da Rocha Fonte",
     "jersey_number" : 6,
     "country" : {
       "id" : 183,
@@ -143,7 +151,7 @@
     }
   }, {
     "player_id" : 4272,
-    "player_name" : "João Mário",
+    "player_name" : "João Mário Naval da Costa Eduardo",
     "jersey_number" : 10,
     "country" : {
       "id" : 183,
@@ -151,7 +159,7 @@
     }
   }, {
     "player_id" : 4367,
-    "player_name" : "Gonçalo Guedes",
+    "player_name" : "Gonçalo Manuel Ganchinho Guedes",
     "jersey_number" : 17,
     "country" : {
       "id" : 183,
@@ -174,14 +182,6 @@
       "name" : "Portugal"
     }
   }, {
-    "player_id" : 5206,
-    "player_name" : "Rúben Santos Gato Alves Dias",
-    "jersey_number" : 21,
-    "country" : {
-      "id" : 183,
-      "name" : "Portugal"
-    }
-  }, {
     "player_id" : 5207,
     "player_name" : "Cristiano Ronaldo dos Santos Aveiro",
     "jersey_number" : 7,
@@ -193,14 +193,6 @@
     "player_id" : 5209,
     "player_name" : "Raphaël Adelino José Guerreiro",
     "jersey_number" : 5,
-    "country" : {
-      "id" : 183,
-      "name" : "Portugal"
-    }
-  }, {
-    "player_id" : 5212,
-    "player_name" : "Kleper Laveran Lima Ferreira",
-    "jersey_number" : 3,
     "country" : {
       "id" : 183,
       "name" : "Portugal"
@@ -225,6 +217,14 @@
     "player_id" : 5218,
     "player_name" : "André Miguel Valente Silva",
     "jersey_number" : 9,
+    "country" : {
+      "id" : 183,
+      "name" : "Portugal"
+    }
+  }, {
+    "player_id" : 20016,
+    "player_name" : "Kléper Laveran Lima Ferreira",
+    "jersey_number" : 3,
     "country" : {
       "id" : 183,
       "name" : "Portugal"

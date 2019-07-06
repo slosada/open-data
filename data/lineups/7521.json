@@ -1,6 +1,6 @@
 [ {
   "team_id" : 767,
-  "team_name" : "Utah Royals FC",
+  "team_name" : "Utah Royals",
   "lineup" : [ {
     "player_id" : 4966,
     "player_name" : "Desiree Scott",
@@ -106,7 +106,7 @@
       "name" : "United States of America"
     }
   }, {
-    "player_id" : 4993,
+    "player_id" : 10384,
     "player_name" : "Elise Thorsnes",
     "jersey_number" : 20,
     "country" : {

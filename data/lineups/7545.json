@@ -3,7 +3,7 @@
   "team_name" : "Argentina",
   "lineup" : [ {
     "player_id" : 3090,
-    "player_name" : "Nicolás Otamendi",
+    "player_name" : "Nicolás Hernán Otamendi",
     "jersey_number" : 17,
     "country" : {
       "id" : 11,
@@ -11,7 +11,7 @@
     }
   }, {
     "player_id" : 3237,
-    "player_name" : "Sergio Agüero",
+    "player_name" : "Sergio Leonel Agüero del Castillo",
     "jersey_number" : 19,
     "country" : {
       "id" : 11,
@@ -19,7 +19,7 @@
     }
   }, {
     "player_id" : 3659,
-    "player_name" : "Willy Caballero",
+    "player_name" : "Wilfredo Daniel Caballero",
     "jersey_number" : 23,
     "country" : {
       "id" : 11,
@@ -82,14 +82,6 @@
       "name" : "Argentina"
     }
   }, {
-    "player_id" : 5740,
-    "player_name" : "Marcos Acuña",
-    "jersey_number" : 8,
-    "country" : {
-      "id" : 11,
-      "name" : "Argentina"
-    }
-  }, {
     "player_id" : 5741,
     "player_name" : "Enzo Nicolás Pérez",
     "jersey_number" : 15,
@@ -113,13 +105,21 @@
       "id" : 11,
       "name" : "Argentina"
     }
+  }, {
+    "player_id" : 19597,
+    "player_name" : "Marcos Javier Acuña",
+    "jersey_number" : 8,
+    "country" : {
+      "id" : 11,
+      "name" : "Argentina"
+    }
   } ]
 }, {
   "team_id" : 785,
   "team_name" : "Croatia",
   "lineup" : [ {
     "player_id" : 3444,
-    "player_name" : "Danijel Subasic",
+    "player_name" : "Danijel Subašić",
     "jersey_number" : 23,
     "country" : {
       "id" : 56,

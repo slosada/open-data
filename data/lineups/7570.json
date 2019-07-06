@@ -11,7 +11,7 @@
     }
   }, {
     "player_id" : 3037,
-    "player_name" : "Mousa Dembélé",
+    "player_name" : "Moussa Sidi Yaya Dembélé",
     "jersey_number" : 19,
     "country" : {
       "id" : 22,
@@ -27,7 +27,7 @@
     }
   }, {
     "player_id" : 3296,
-    "player_name" : "Marouane Fellaini",
+    "player_name" : "Marouane Fellaini-Bakkioui",
     "jersey_number" : 8,
     "country" : {
       "id" : 22,
@@ -35,7 +35,7 @@
     }
   }, {
     "player_id" : 3457,
-    "player_name" : "Michy Batshuayi",
+    "player_name" : "Michy Batshuayi Tunga",
     "jersey_number" : 21,
     "country" : {
       "id" : 22,
@@ -110,14 +110,6 @@
   "team_id" : 768,
   "team_name" : "England",
   "lineup" : [ {
-    "player_id" : 3116,
-    "player_name" : "Eric Dier",
-    "jersey_number" : 4,
-    "country" : {
-      "id" : 68,
-      "name" : "England"
-    }
-  }, {
     "player_id" : 3244,
     "player_name" : "John Stones",
     "jersey_number" : 5,
@@ -167,7 +159,7 @@
     }
   }, {
     "player_id" : 3569,
-    "player_name" : "Danny Welbeck",
+    "player_name" : "Daniel Nii Tackie Mensah Welbeck",
     "jersey_number" : 14,
     "country" : {
       "id" : 68,
@@ -198,17 +190,25 @@
       "name" : "England"
     }
   }, {
-    "player_id" : 3816,
-    "player_name" : "Jamie Vardy",
-    "jersey_number" : 11,
+    "player_id" : 4597,
+    "player_name" : "Fabian Delph",
+    "jersey_number" : 17,
     "country" : {
       "id" : 68,
       "name" : "England"
     }
   }, {
-    "player_id" : 4597,
-    "player_name" : "Fabian Delph",
-    "jersey_number" : 17,
+    "player_id" : 10956,
+    "player_name" : "Eric Dier",
+    "jersey_number" : 4,
+    "country" : {
+      "id" : 68,
+      "name" : "England"
+    }
+  }, {
+    "player_id" : 10960,
+    "player_name" : "Jamie Vardy",
+    "jersey_number" : 11,
     "country" : {
       "id" : 68,
       "name" : "England"

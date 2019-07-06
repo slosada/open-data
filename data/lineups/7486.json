@@ -116,7 +116,7 @@
   } ]
 }, {
   "team_id" : 765,
-  "team_name" : "Portland Thorns FC",
+  "team_name" : "Portland Thorns",
   "lineup" : [ {
     "player_id" : 4995,
     "player_name" : "Celeste Boureille",
@@ -140,14 +140,6 @@
     "country" : {
       "id" : 241,
       "name" : "United States of America"
-    }
-  }, {
-    "player_id" : 5004,
-    "player_name" : "Ana-Maria Crnogorcevic",
-    "jersey_number" : 7,
-    "country" : {
-      "id" : 221,
-      "name" : "Switzerland"
     }
   }, {
     "player_id" : 5010,
@@ -228,6 +220,14 @@
     "country" : {
       "id" : 241,
       "name" : "United States of America"
+    }
+  }, {
+    "player_id" : 10408,
+    "player_name" : "Ana-Maria Crnogorcevic",
+    "jersey_number" : 7,
+    "country" : {
+      "id" : 221,
+      "name" : "Switzerland"
     }
   } ]
 } ]
